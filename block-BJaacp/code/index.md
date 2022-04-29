@@ -24,7 +24,7 @@ Answer the following with reason after going through the above code:
 2. What's will be the value of `person1` and `person2` ? Explain with reason. Draw the memory representation diagram.
 
 <!-- To add this image here use ![name](./hello.jpg) -->
-
+![name](memory.jpg);
 ```js
 function personDetails(person) {
   person.age = 25;
